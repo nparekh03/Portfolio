@@ -147,7 +147,7 @@ export default function FrameworksPage() {
               <motion.div
                 initial={{ scale: 0.9 }}
                 animate={{ scale: 1 }}
-                onClick={(e) => e.stopPropagation()}
+                onClick={(e: React.MouseEvent<HTMLDivElement>) => e.stopPropagation()}
                 className="max-w-2xl w-full p-8 rounded-xl bg-card border border-border shadow-2xl relative"
               >
                 <button
