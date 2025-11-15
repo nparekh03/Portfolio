@@ -21,7 +21,7 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "Nirali Parekh | Product Manager - AI, Fintech, SaaS",
   description:
-    "Product Manager specializing in AI-powered products, fintech platforms, and SaaS solutions. Building products that turn empathy into scalable systems.",
+    "Product Manager specializing in AI-powered products, fintech platforms, and SaaS solutions. Architecting products that transform user insights into scalable solutions.",
   keywords: [
     "Product Manager",
     "AI Product",

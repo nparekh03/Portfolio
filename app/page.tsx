@@ -100,9 +100,9 @@ export default function Home() {
               transition={{ delay: 0.4, duration: 0.6 }}
               className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
             >
-              <span className="block">I build products that</span>
+              <span className="block">I architect products that</span>
               <span className="block bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                turn empathy into scalable systems
+                transform user insights into scalable solutions
               </span>
             </motion.h1>
 
